@@ -1,4 +1,4 @@
-## Available Scripts
+## Bem-vindo ao Universo Marvel!
 
 Para executar esse projeto, você deverá utilizar uma versão do node igual ou superior à 18.0.0.
 
